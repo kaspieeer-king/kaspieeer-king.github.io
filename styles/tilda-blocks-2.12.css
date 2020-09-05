@@ -21,6 +21,13 @@
   position: relative;
 }
 
+.bullet-icon {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: #ffcc33;
+}
+
 @media screen and (max-width: 480px) {
   .logo-max {
     display: none !important;
